@@ -1,0 +1,68 @@
+[
+    {
+        "id": "el1",
+        "name":"Yamaha ERG121U",
+        "img":"https://i.ibb.co/VYXCk3y/smerg121222.jpg",
+        "price": 17900
+    },
+    {
+        "id":"el2",
+        "name":"Ibanez GRG170DX",
+        "img":"https://i.ibb.co/XZdsYKw/ibanez-grg170dx-bkn.jpg",
+        "price": 8850
+    },
+    {
+        "id":"el3",
+        "name":"Yamaha RGX121Z",
+        "img":"https://i.ibb.co/4jYdwkx/yamaha-rgx121z-rm.jpg",
+        "price": 3500
+    },
+    {
+        "id":"el4",
+        "name":"Ibanez GSA60",
+        "img":"https://i.ibb.co/vj6dnSy/ibanez-gsa-60-bs-1.jpg",
+        "price": 27000
+    },
+    {
+        "id":"el5",
+        "name":"FUJIGEN JOS2-CL-G Odyssey J-Standard Series",
+        "img":"https://i.ibb.co/mXrqHp3/fujigen-jos2-cl-g-odyssey-j-standard-series-old-lake-placid-1.jpg",
+        "price": 18999
+    },
+    {
+        "id":"el6",
+        "name":"VGS Soulmaster VSM-120 Select",
+        "img":"https://i.ibb.co/stZH1qN/vgs-soulmaster-vsm-120-select-1.jpg",
+        "price": 5250
+    },
+    {
+        "id":"el7",
+        "name":"VGS Eruption Spirit Select",
+        "img":"https://i.ibb.co/9bsrsy7/vgs-eruption-spirit-select-1.jpg",
+        "price": 5700
+    },
+    {
+        "id":"el8",
+        "name":"VGS Screech Select",
+        "img":"https://i.ibb.co/jzQv5H6/vgs-screech-select-1.jpg",
+        "price": 5000
+    },
+    {
+        "id":"el9",
+        "name":"VGS Road Cruiser VST-100 Classix",
+        "img":"https://i.ibb.co/1mhpfb7/vgs-road-cruiser-vst-100-classix-black-1.jpg",
+        "price": 7300
+    },
+    {
+        "id":"el10",
+        "name":"PRS SE Santana",
+        "img":"https://i.ibb.co/PMdFbRW/prs-se-santana-yellow-1.jpg",
+        "price": 17770
+    },
+    {
+        "id":"el11",
+        "name":"YAMAHA REVSTAR RS420",
+        "img":"https://i.ibb.co/Qj2fVnp/rs420-mayagold-1.jpg",
+        "price": 19999
+    }
+]
